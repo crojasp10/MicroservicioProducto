@@ -1,8 +1,10 @@
 package com.microservices.microservicesproductos.model.entity;
 
 
+
 import lombok.Getter;
 import lombok.Setter;
+
 
 import javax.persistence.*;
 import java.util.Date;
